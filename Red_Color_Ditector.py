@@ -1,7 +1,7 @@
 import cv2 as cv
-
 import numpy as np
 
+#If camara doesnt work change 0 with 1
 web = cv.VideoCapture(0)
 while True:
     isTrue, img = web.read()

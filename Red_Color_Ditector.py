@@ -1,3 +1,4 @@
+## To run it you need opencv and numpy do (pip install numpy opencv-python)
 import cv2 as cv
 import numpy as np
 
